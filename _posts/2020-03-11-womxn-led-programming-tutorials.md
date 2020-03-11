@@ -1,6 +1,8 @@
 ---
 published: false
 ---
-## Womxn-Led Programming Tutorials
+## Womxn-Led Programming Tutorials (draft)
 
-I have long felt uncomfortable getting programming tutorials from cis-men because I feel like 
+* [Welcome to Object-Oriented JavaScript](https://teamtreehouse.com/library/welcome-to-objectoriented-javascript) - taught by [Ashley Boucher](https://teamtreehouse.com/ashleyboucher2)
+* [Vue.js Basics](https://teamtreehouse.com/library/vuejs-basics) - taught by [Treasure Porth](https://teamtreehouse.com/treasureporth)
+* [REST APIs with Express](https://teamtreehouse.com/library/rest-apis-with-express) - taught by [Treasure Porth](https://teamtreehouse.com/treasureporth)
