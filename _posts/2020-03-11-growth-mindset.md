@@ -1,7 +1,10 @@
 ---
 published: false
 ---
-## Adopting a Growth Mindset
+---
+layout: post
+title: Adopting a Growth Mindset
+---
 
 I'm starting this blog to keep track of my progress in learning skills as a web developer, having started in that position professionally at Kellogg School of Management in the start of 2020. I was previously a developer at several companies but didn't have the imperative to learn on my own in quite the way I do now. I'm using languages and technologies not used by the rest of the development group here, and they're languages and technologies that are new to me as well, but I feel they're worthwhile investments for me. The process of deliberately learning something new, and sticking with it, on a timetable (I have a project due in the next month) is particularly new, and so it requires deliberate practice.
 
@@ -48,4 +51,4 @@ Old/Fixed: This is too hard.
 New/Growth: Learning just takes time.
 
 
-Yesterday, I finished the [Build a REST API With Express](https://teamtreehouse.com/library/build-a-rest-api-with-express) course and have a much better idea of how to build a REST API in Node.JS/Express. I don't want to actually create it yet, though, until I have a better idea of where it fits into the overall architecture and make sure I'm building it correctly the first time so I won't be distracted by having to go back to fix it later (still very possible). 
+Yesterday, I finished the [Build a REST API With Express](https://teamtreehouse.com/library/build-a-rest-api-with-express) course and have a much better idea of how to build a REST API in Node.JS/Express. I don't want to actually create it yet, though, until I have a better idea of where it fits into the overall architecture and make sure I'm building it correctly the first time so I won't be distracted by having to go back to fix it later (still very possible).
