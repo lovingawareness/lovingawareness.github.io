@@ -1,11 +1,6 @@
 ---
 published: true
 ---
----
-layout: post
-title: Adopting a Growth Mindset
----
-
 I'm starting this blog to keep track of my progress in learning skills as a web developer, having started in that position professionally at Kellogg School of Management in the start of 2020. I was previously a developer at several companies but didn't have the imperative to learn on my own in quite the way I do now. I'm using languages and technologies not used by the rest of the development group here, and they're languages and technologies that are new to me as well, but I feel they're worthwhile investments for me. The process of deliberately learning something new, and sticking with it, on a timetable (I have a project due in the next month) is particularly new, and so it requires deliberate practice.
 
 I'm realizing I have had a fixed mindset for a long time, from being a child "good at math" and I'm having to shrug off the habits of the fixed mindset and adopt the healthy habits of the growth mindset.
